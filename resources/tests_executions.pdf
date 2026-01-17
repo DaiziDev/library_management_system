@@ -1,9 +1,0 @@
-1. Compilation du projet 
-
-    cd /chemin/vers/LibraryManagementSystem/src
-    javac *.java
-
-2. Execution du programme 
-
-    java Main
-
